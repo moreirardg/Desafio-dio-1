@@ -1,0 +1,2 @@
+O objetivo deste desafio é verificar se o aluno consegue relacionar de
+maneira correta o Git e o Github.
